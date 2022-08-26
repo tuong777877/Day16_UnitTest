@@ -1,0 +1,15 @@
+D:\Roadmap_Intern_dotNET\Day16_UnitTest\ExampleUT\ExampleUT\bin\Debug\net6.0\ExampleUT.exe
+D:\Roadmap_Intern_dotNET\Day16_UnitTest\ExampleUT\ExampleUT\bin\Debug\net6.0\ExampleUT.deps.json
+D:\Roadmap_Intern_dotNET\Day16_UnitTest\ExampleUT\ExampleUT\bin\Debug\net6.0\ExampleUT.runtimeconfig.json
+D:\Roadmap_Intern_dotNET\Day16_UnitTest\ExampleUT\ExampleUT\bin\Debug\net6.0\ExampleUT.dll
+D:\Roadmap_Intern_dotNET\Day16_UnitTest\ExampleUT\ExampleUT\bin\Debug\net6.0\ExampleUT.pdb
+D:\Roadmap_Intern_dotNET\Day16_UnitTest\ExampleUT\ExampleUT\obj\Debug\net6.0\ExampleUT.csproj.AssemblyReference.cache
+D:\Roadmap_Intern_dotNET\Day16_UnitTest\ExampleUT\ExampleUT\obj\Debug\net6.0\ExampleUT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Roadmap_Intern_dotNET\Day16_UnitTest\ExampleUT\ExampleUT\obj\Debug\net6.0\ExampleUT.AssemblyInfoInputs.cache
+D:\Roadmap_Intern_dotNET\Day16_UnitTest\ExampleUT\ExampleUT\obj\Debug\net6.0\ExampleUT.AssemblyInfo.cs
+D:\Roadmap_Intern_dotNET\Day16_UnitTest\ExampleUT\ExampleUT\obj\Debug\net6.0\ExampleUT.csproj.CoreCompileInputs.cache
+D:\Roadmap_Intern_dotNET\Day16_UnitTest\ExampleUT\ExampleUT\obj\Debug\net6.0\ExampleUT.dll
+D:\Roadmap_Intern_dotNET\Day16_UnitTest\ExampleUT\ExampleUT\obj\Debug\net6.0\refint\ExampleUT.dll
+D:\Roadmap_Intern_dotNET\Day16_UnitTest\ExampleUT\ExampleUT\obj\Debug\net6.0\ExampleUT.pdb
+D:\Roadmap_Intern_dotNET\Day16_UnitTest\ExampleUT\ExampleUT\obj\Debug\net6.0\ExampleUT.genruntimeconfig.cache
+D:\Roadmap_Intern_dotNET\Day16_UnitTest\ExampleUT\ExampleUT\obj\Debug\net6.0\ref\ExampleUT.dll
